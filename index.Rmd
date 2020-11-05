@@ -2,6 +2,7 @@
 title: "My awesome website"
 output: 
   html_document:
+    Code_folding: hide
     toc: true
     toc_float: true
 ---
